@@ -1,7 +1,7 @@
-# Siberia.test
+# Sibers.test
 
 ### Просмотр проекта
-* главная страница: [```src/index.html```](https://ardent24.github.io/siberia.test/src/)
+* главная страница: [```src/index.html```](https://ardent24.github.io/sibers.test/src/)
 
 ## :fire: Особенности
 * используется [Webpack](https://webpack.js.org/) для сборки JavaScript-модулей
